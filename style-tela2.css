@@ -82,28 +82,52 @@
     bottom: 50px;
 }
 
+.fala-comigo-white img {
+    width: 50px;
+    height: 50px;
+    margin-left: 0px;
+    bottom: 50px;
+}
+
 .barras-laterais {
     position: relative;
     bottom: 310px;
     left: 450px;
     width: 350px;
     height: 45px;
-    margin-bottom: -2px;
+    margin-bottom: 10px;
     background-color: #0d34a0;
     border-radius: 20px;
 }
 
-
+.barras-laterais span {
+    position: relative;
+    top: 12px;
+    left: 30px;
+    font-size: 18px;
+    font-weight: 100;
+    color: white;
+}
 
 .branca-laterais {
     position: relative;
-    left: 305px;
+    left: 345px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.branca-laterais img {
+    left: 325px;
     bottom: 51px;
     width: 50px;
     height: 50px;
     background-color: white;
     border-radius: 50px;
 }
+
 
 .status {
     width: 740px;
@@ -153,6 +177,14 @@ hr {
     height: 40px;
     background-color: white;
     border-radius: 50px;
+}
+
+.branca-pedidos span {
+    position: relative;
+    margin-left: 12px;
+    top: 3px;
+    font-size: 27px;
+    color: #0d34a0;
 }
 
 .pedidosstatus2 {
