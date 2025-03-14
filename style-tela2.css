@@ -115,3 +115,12 @@
    font-size: 18px;
  }
  
+hr {
+    position: relative;
+    bottom: 20px;
+    width: 95%;
+    height: 1px;
+    border-top: 5px solid white;
+    box-sizing: 5px;
+    background-color: #dddddd;
+}
