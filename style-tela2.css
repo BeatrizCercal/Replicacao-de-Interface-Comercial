@@ -19,14 +19,14 @@
 .entrada {
     width: 1300px;
     height: 350px;
-    background-color: rgb(255, 0, 0);
+    background-color: #d9e9fd;
     border-radius: 7px;
 }
 
 .status {
     width: 740px;
     height: 350px;
-    background-color: rgb(255, 0, 0);
+    background-color: #d9e9fd;
     border-radius: 7px;
 }
 
@@ -34,4 +34,5 @@
     margin-top: 10px;
     margin-left: 14px;
     font-size: 22px;
+    color:#0d34a0;
 }
