@@ -76,3 +76,10 @@
 .pedidosstatus p{
    font-size: 18px;
  }
+ .flexivel{
+    display: flex;
+    gap: 130px;
+ }
+ .flexivel p{
+   font-size: 18px;
+ }
