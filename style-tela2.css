@@ -79,6 +79,27 @@
     bottom: 50px;
 }
 
+.barras-laterais {
+    position: relative;
+    bottom: 310px;
+    left: 450px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: -2px;
+    background-color: #0d34a0;
+    border-radius: 20px;
+}
+
+.branca-laterais {
+    position: relative;
+    left: 210px;
+    bottom: 48px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+
 .status {
     width: 740px;
     height: 350px;
