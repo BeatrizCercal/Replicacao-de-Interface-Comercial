@@ -29,3 +29,9 @@
     background-color: rgb(255, 0, 0);
     border-radius: 7px;
 }
+
+.status p {
+    margin-top: 10px;
+    margin-left: 14px;
+    font-size: 22px;
+}
