@@ -23,7 +23,7 @@
     border-radius: 7px;
 }
 
-.text-entrada{
+.text-entrada {
     position: relative;
     bottom: 280px;
     margin-left: 350px;
@@ -38,7 +38,7 @@
 
 .text-entrada h3 {
     font-size: 28px;
-    color:#0d34a0;
+    color: #0d34a0;
 }
 
 .photo-img {
@@ -57,7 +57,8 @@
     margin-top: 55px;
     width: 170px;
     height: 50px;
-    background-color: #0d34a0;;
+    background-color: #0d34a0;
+    ;
     border-radius: 20px;
 }
 
@@ -111,64 +112,74 @@
     margin-top: 10px;
     margin-left: 14px;
     font-size: 22px;
-    color:#0d34a0;
+    color: #0d34a0;
 }
 
 .entrada p {
     margin-top: 10px;
     margin-left: 14px;
     font-size: 22px;
-    color:#0d34a0;
+    color: #0d34a0;
 }
-.pedidosstatus{
-   margin-left: 410px;
-   margin-top: -47px ;
-}
-.pedidosstatus p{
-    font-size: 18px;
-  }
 
-.pedidosstatus2{
+.pedidosstatus {
+    margin-left: 410px;
+    margin-top: -47px;
+}
+
+.pedidosstatus p {
+    font-size: 18px;
+}
+
+.pedidosstatus2 {
     margin-left: 900px;
-    margin-top: -47px ;
- }
- .pedidosstatus2 p{
-    font-size: 18px;
-  }
+    margin-top: -47px;
+}
 
-  .pedidosstatus3{
+.pedidosstatus2 p {
+    font-size: 18px;
+}
+
+.pedidosstatus3 {
     margin-left: 410px;
-    margin-top: -47px ;
- }
- .pedidosstatus3 p{
-    font-size: 18px;
-  }
+    margin-top: -47px;
+}
 
-  .pedidosstatus4{
+.pedidosstatus3 p {
+    font-size: 18px;
+}
+
+.pedidosstatus4 {
     margin-left: 920px;
-    margin-top: -47px ;
- }
- .pedidosstatus4 p{
-    font-size: 18px;
-  }
+    margin-top: -47px;
+}
 
-  .pedidosstatus5{
+.pedidosstatus4 p {
+    font-size: 18px;
+}
+
+.pedidosstatus5 {
     margin-left: 410px;
-    margin-top: -47px ;
- }
- .pedidosstatus4 p{
+    margin-top: -47px;
+}
+
+.pedidosstatus5 p {
     font-size: 18px;
-  }
+}
 
+.pedidosstatus4 p {
+    font-size: 18px;
+}
 
- .flexivel{
+.flexivel {
     display: flex;
     gap: 150px;
- }
- .flexivel p{
-   font-size: 18px;
- }
- 
+}
+
+.flexivel p {
+    font-size: 18px;
+}
+
 hr {
     position: relative;
     bottom: 20px;
