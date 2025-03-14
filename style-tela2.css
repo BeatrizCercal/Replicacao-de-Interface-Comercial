@@ -65,9 +65,11 @@
 .fala-comigo h4 {
     position: relative;
     top: 14px;
-    right: 15px;
+    right: 19px;
     text-align: center;
     color: white;
+    font-weight: 100;
+    font-size: 18px;
 }
 
 .fala-comigo-white {
@@ -84,17 +86,19 @@
     position: relative;
     bottom: 310px;
     left: 450px;
-    width: 250px;
-    height: 50px;
+    width: 350px;
+    height: 45px;
     margin-bottom: -2px;
     background-color: #0d34a0;
     border-radius: 20px;
 }
 
+
+
 .branca-laterais {
     position: relative;
-    left: 210px;
-    bottom: 48px;
+    left: 305px;
+    bottom: 51px;
     width: 50px;
     height: 50px;
     background-color: white;
