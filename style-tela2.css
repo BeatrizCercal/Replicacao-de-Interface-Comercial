@@ -304,3 +304,40 @@ hr {
 .flexivel p {
     font-size: 18px;
 }
+
+.carrosel {
+    width: 120vh;
+    margin-left: 27px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.card-flexivel {
+    display: flex;
+    gap: 20px;
+}
+
+.card-white {
+    width: 200px;
+    height: 210px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.card-white img {
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+.card-white span {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.btn-passar {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 47%;
+}
