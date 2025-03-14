@@ -23,6 +23,19 @@
     border-radius: 7px;
 }
 
+.photo-img {
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 290px;
+    height: 300px;
+    background-color: rebeccapurple;
+}
+
+.photo-img img {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
 .status {
     width: 740px;
     height: 350px;
@@ -41,4 +54,5 @@
     margin-top: 10px;
     margin-left: 14px;
     font-size: 22px;
+    color:#0d34a0;
 }
