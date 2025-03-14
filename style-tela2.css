@@ -196,6 +196,24 @@ hr {
     font-size: 18px;
 }
 
+.branca-pedidos2 {
+    position: relative;
+    bottom: 45px;
+    left: 260px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.branca-pedidos2 span {
+    position: relative;
+    margin-left: 12px;
+    top: 3px;
+    font-size: 27px;
+    color: #0d34a0;
+}
+
 .pedidosstatus3 {
     margin-left: 410px;
     margin-top: -47px;
@@ -203,6 +221,24 @@ hr {
 
 .pedidosstatus3 p {
     font-size: 18px;
+}
+
+.branca-pedidos3 {
+    position: relative;
+    bottom: 45px;
+    left: 630px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.branca-pedidos3 span {
+    position: relative;
+    margin-left: 12px;
+    top: 3px;
+    font-size: 27px;
+    color: #0d34a0;
 }
 
 .pedidosstatus4 {
@@ -214,17 +250,50 @@ hr {
     font-size: 18px;
 }
 
+.branca-pedidos4 {
+    position: relative;
+    bottom: 45px;
+    left: 192px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.branca-pedidos4 span {
+    position: relative;
+    margin-left: 12px;
+    top: 3px;
+    font-size: 27px;
+    color: #0d34a0;
+}
+
 .pedidosstatus5 {
     margin-left: 410px;
     margin-top: -47px;
 }
 
+
 .pedidosstatus5 p {
     font-size: 18px;
 }
 
-.pedidosstatus4 p {
-    font-size: 18px;
+.branca-pedidos5 {
+    position: relative;
+    bottom: 45px;
+    left: 600px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.branca-pedidos5 span {
+    position: relative;
+    margin-left: 12px;
+    top: 3px;
+    font-size: 27px;
+    color: #0d34a0;
 }
 
 .flexivel {
