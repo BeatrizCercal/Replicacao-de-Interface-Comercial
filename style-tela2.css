@@ -10,6 +10,12 @@
     gap: 70px;
 }
 
+.container-two {
+    display: flex;
+    gap: 70px;
+    margin-top: 30px;
+}
+
 .entrada {
     width: 1300px;
     height: 350px;
