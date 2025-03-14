@@ -103,10 +103,43 @@
    margin-left: 410px;
    margin-top: -47px ;
 }
-
 .pedidosstatus p{
-   font-size: 18px;
+    font-size: 18px;
+  }
+
+.pedidosstatus2{
+    margin-left: 900px;
+    margin-top: -47px ;
  }
+ .pedidosstatus2 p{
+    font-size: 18px;
+  }
+
+  .pedidosstatus3{
+    margin-left: 410px;
+    margin-top: -47px ;
+ }
+ .pedidosstatus3 p{
+    font-size: 18px;
+  }
+
+  .pedidosstatus4{
+    margin-left: 920px;
+    margin-top: -47px ;
+ }
+ .pedidosstatus4 p{
+    font-size: 18px;
+  }
+
+  .pedidosstatus5{
+    margin-left: 410px;
+    margin-top: -47px ;
+ }
+ .pedidosstatus4 p{
+    font-size: 18px;
+  }
+
+
  .flexivel{
     display: flex;
     gap: 150px;
@@ -120,7 +153,7 @@ hr {
     bottom: 20px;
     width: 95%;
     height: 1px;
-    border-top: 5px solid white;
+    border-top: 3px solid white;
     box-sizing: 5px;
     background-color: #dddddd;
 }
