@@ -183,7 +183,7 @@ hr {
 
 .status-text {
     display: flex;
-    gap: 115px;
+    gap: 90px;
 }
 
 .status-text span {
@@ -194,10 +194,14 @@ hr {
 }
 
 .status-text input {
-    margin-top: 10px;
+    position: relative;
+    right: 10px;
+    margin-top: 5px;
+    width: 150px;
+    height: 40px;
     background-color: rgb(118, 194, 5);
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
 }
 
