@@ -408,7 +408,7 @@ hr {
 .carrosel {
     width: 120vh;
     margin-left: 27px;
-    height: 200px;
+    height: 180px;
     border-radius: 10px;
 }
 
@@ -418,10 +418,11 @@ hr {
 }
 
 .card-white {
-    width: 200px;
+    width: 190px;
     height: 210px;
     background-color: white;
     border-radius: 10px;
+    
 }
 
 .card-white img {
