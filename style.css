@@ -6,6 +6,7 @@
 
 body {
     background-color: bisque;
+    overflow-y: hidden;
 }
 
 /*URL*/
@@ -19,7 +20,7 @@ body {
             #f3f3f3 9%,
             #f3f3f3 18%,
             #f3f3f3 92%,
-            #f3f3f3 100%);    
+            #f3f3f3 100%);
 }
 
 .url {
@@ -116,4 +117,43 @@ body {
     width: 10px;
     height: 33px;
     background-color: red;
+}
+
+.flexend-btn {
+    position: relative;
+    bottom: 32px;
+    margin-left: 98%;
+}
+
+.flexend-btn input {
+    width: 40px;
+    height: 30px;
+}
+
+/*Navigation Repositories*/
+
+.container-nav {
+    margin-left: 0px;
+    width: 400px;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.nav {
+    margin-left: 0px;
+    width: 400px;
+    height: 70px;
+    background: linear-gradient(to bottom,
+            #ffffff 0%,
+            #f1f2f1 9%,
+            #f3f3f3 18%,
+            #f1f2f1 92%,
+            #f3f3f3 100%);
+}
+
+.nav-line {
+    margin-left: 0px;
+    width: 400px;
+    height: 5px;
+    background: #406fad;
 }
