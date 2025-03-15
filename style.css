@@ -44,13 +44,11 @@ body {
     bottom: 28px;
 }
 
-.close-btn {
+.close-btn img {
     position: relative;
-    margin-left: 290px;
-    bottom: 31px;
-}
-
-.close-btn input {
-    width: 28px;
-    height: 31px;
+    left: 290px;
+    bottom: 30px;
+    width: 25px;
+    height: 30px;
+    background-color: rebeccapurple;
 }
