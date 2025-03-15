@@ -44,11 +44,23 @@ body {
     bottom: 28px;
 }
 
+.url-close {
+    position: relative;
+    bottom: 20px;
+    margin-left: 210px;
+    width: 20px;
+    height: 20px;
+}
+
+.url-close img {
+    width: 20px;
+    height: 20px;
+}
+
 .close-btn img {
     position: relative;
-    left: 290px;
+    left: 280px;
     bottom: 30px;
     width: 25px;
     height: 30px;
-    background-color: rebeccapurple;
 }
