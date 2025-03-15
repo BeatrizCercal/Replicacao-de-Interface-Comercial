@@ -8,6 +8,8 @@ body {
     background-color: bisque;
 }
 
+/*URL*/
+
 .container-url {
     width: 100vw;
     height: 30px;
@@ -60,7 +62,58 @@ body {
 .close-btn img {
     position: relative;
     left: 280px;
-    bottom: 30px;
+    bottom: 31px;
     width: 25px;
     height: 30px;
+}
+
+/*TEXTO ABAIXO DA URL*/
+
+.container-local {
+    width: 100vw;
+    height: 50px;
+    background-color: #dddddd;
+}
+
+.container-local h1 {
+    color: #3d3d3d;
+    margin-left: 15px;
+}
+
+.loading-bar {
+    width: 100vw;
+    height: 35px;
+    background-color: #fcef8b;
+}
+
+.loading-bar img {
+    width: 100vw;
+    height: 35px;
+}
+
+.container-loading-bar {
+    width: 100vw;
+    height: 35px;
+    background-color: #dddddd;
+}
+
+.flex-btn {
+    display: flex;
+    margin-left: 19px;
+    gap: 3px;
+}
+
+.flex-btn input {
+    position: relative;
+    width: 70px;
+    height: 30px;
+    bottom: -2px;
+    gap: 10px;
+}
+
+.flex-btn img {
+    margin-left: 6px;
+    width: 10px;
+    height: 33px;
+    background-color: red;
 }
