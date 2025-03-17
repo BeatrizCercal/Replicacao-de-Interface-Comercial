@@ -490,3 +490,15 @@ hr {
     margin-top: 20px;
     margin-left: 47%;
 }
+
+.container-status-req {
+    position: relative;
+    right: 900px;
+    bottom: 45px;
+    width: 1250px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
