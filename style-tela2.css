@@ -649,3 +649,12 @@ hr {
     height: 5px;
     background-color: #1641b3;
 }
+
+.text-flex {
+    position: relative;
+    right: 17px;
+    bottom: 15px;
+    display: flex;
+    gap: 159px;
+    white-space: nowrap; /*Impede a quebra de linha*/
+}
