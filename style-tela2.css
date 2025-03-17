@@ -461,6 +461,9 @@ hr {
 }
 
 .card-flexivel {
+    position: relative;
+    bottom: 20px;
+    left: 15px;
     display: flex;
     gap: 20px;
 }
@@ -558,8 +561,8 @@ hr {
 
 .btn-passar {
     display: flex;
-    margin-top: 20px;
-    margin-left: 47%;
+    margin-top: -25px;
+    margin-left: 45%;
 }
 
 .container-status-req {
@@ -734,4 +737,13 @@ hr {
     bottom: 30px;
     width: 120px;
     height: 80px;
+}
+
+.seta2 img {
+    width: 120px;
+    height: 80px;
+    border-radius: 50%;
+    bottom: 155px;
+    left: 1190px;
+    position: relative; 
 }
