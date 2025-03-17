@@ -677,3 +677,7 @@ hr {
     gap: 159px;
     white-space: nowrap; /*Impede a quebra de linha*/
 }
+
+.status-bolas img {
+    background-color: red;
+}
