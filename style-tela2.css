@@ -684,15 +684,3 @@ hr {
     width: 70px;
     height: 50px;
 }
-.seta{
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    position: relative;
-    top: 30%;
-
-}
-.seta img{
-    width: 150px;
-    height: 60px;
-}
