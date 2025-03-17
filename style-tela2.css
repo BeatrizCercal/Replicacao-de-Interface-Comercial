@@ -707,3 +707,31 @@ hr {
     top: 230px;
     right: 380px;
 }
+.seta{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    top: 110px;
+    position: relative;
+}
+.seta img{
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+    width: 120px;
+    height: 80px;
+}
+.seta1{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    top: 110px;
+    position: relative;
+}
+.seta1 img{
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+    width: 120px;
+    height: 80px;
+}
