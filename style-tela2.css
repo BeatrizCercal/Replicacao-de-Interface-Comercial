@@ -537,6 +537,25 @@ hr {
     font-weight: bold;
 }
 
+
+.card-white5 img {
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-bottom: 12px;
+}
+.card-white5 {
+    width: 180px;
+    height: 210px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.card-white5 span {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
 .btn-passar {
     display: flex;
     margin-top: 20px;
