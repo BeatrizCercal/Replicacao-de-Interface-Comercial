@@ -510,3 +510,72 @@ hr {
     font-weight: bold;
 }
 
+.container-progress {
+    position: relative;
+    bottom: 15px;
+    margin-left: 220px;
+    width: 950px;
+    height: 50px;
+}
+
+.bolas-flex-box {
+    display: flex;
+    gap: 175px;
+}
+
+.status-bolas {
+    width: 50px;
+    height: 50px;
+    background: #5cbb6c;
+    border-radius: 50px;
+}
+
+.status-bolas-yellow {
+    width: 50px;
+    height: 50px;
+    background: #fbcc33;
+    border-radius: 50px;
+}
+
+.status-bolas-blue {
+    width: 50px;
+    height: 50px;
+    background: #1641b3;
+    border-radius: 50px;
+}
+
+.status-linha {
+    position: relative;
+    bottom: 25px;
+    left: 49px;
+    width: 176px;
+    height: 5px;
+    background-color: #5cbb6c;
+}
+
+.status-linha2 {
+    position: relative;
+    bottom: 30px;
+    left: 275px;
+    width: 176px;
+    height: 5px;
+    background-color: #5cbb6c;
+}
+
+.status-linha3 {
+    position: relative;
+    bottom: 35px;
+    left: 499px;
+    width: 176px;
+    height: 5px;
+    background-color: #1641b3;
+}
+
+.status-linha4 {
+    position: relative;
+    bottom: 40px;
+    left: 725px;
+    width: 176px;
+    height: 5px;
+    background-color: #1641b3;
+}
