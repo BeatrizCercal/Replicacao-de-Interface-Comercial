@@ -701,3 +701,9 @@ hr {
     width: 200px;
     height: 100px;
 }
+
+.btn-passar2 {
+    position: relative;
+    top: 230px;
+    right: 360px;
+}
