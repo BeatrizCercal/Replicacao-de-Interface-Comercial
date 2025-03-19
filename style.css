@@ -233,3 +233,11 @@ body {
 
 /* CONTAINER GERAL */
 
+.container-nav-main {
+    position: relative;
+    left: 400px;
+    bottom: 111px;
+    width: 100vw;
+    height: 100vh;
+    background-color: purple;
+}
