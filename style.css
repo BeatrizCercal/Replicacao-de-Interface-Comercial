@@ -158,3 +158,46 @@ body {
     height: 5px;
     background: #406fad;
 }
+
+.label-nav {
+    position: relative;
+    top: 5px;
+    width: 400px;
+    height: 100vh;
+    background: #ffffff;
+}
+
+.label-bar {
+    width: 400px;
+    height: 40px;
+    background-color: #dddddd;
+}
+
+.label-bar input {
+    position: relative;
+    bottom: 10px;
+    left: 11px;
+    width: 50px;
+    height: 30px; 
+}
+
+.label-bar img {
+    position: relative;
+    left: 10px;
+    top: 4px;
+    width: 10px;
+    height: 33px;
+}
+
+#new {
+    width: 70px;
+    height: 30px;  
+}
+
+#last {
+    position: relative;
+    left: 35px;
+}
+
+/* CONTAINER GERAL */
+
