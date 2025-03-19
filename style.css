@@ -141,6 +141,8 @@ body {
 }
 
 .nav {
+    position: relative;
+    bottom: 20px;
     margin-left: 0px;
     width: 400px;
     height: 70px;
@@ -154,7 +156,7 @@ body {
 
 .nav h1 {
     position: relative;
-    top: 15px;
+    top: 1px;
     left: 25px;
     color: #3d3d3d;
 }
@@ -162,13 +164,27 @@ body {
 .nav p {
     position: relative;
     left: 210px;
-    bottom: 30px;
+    bottom: 45px;
     font-size: 17px;
 }
 
+.nav-image {
+    position: relative;
+    top: 29px;
+    width: 20px;
+    left: 370px;
+    height: 20px;
+    background: red;
+}
 
+.nav-image img {
+    width: 20px;
+    height: 20px;
+}
 
 .nav-line {
+    position: relative;
+    bottom: 20px;
     margin-left: 0px;
     width: 400px;
     height: 5px;
