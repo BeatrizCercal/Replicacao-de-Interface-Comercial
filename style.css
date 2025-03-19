@@ -152,9 +152,21 @@ body {
             #f3f3f3 100%);
 }
 
-.nav span {
-    
+.nav h1 {
+    position: relative;
+    top: 15px;
+    left: 25px;
+    color: #3d3d3d;
 }
+
+.nav p {
+    position: relative;
+    left: 210px;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+
 
 .nav-line {
     margin-left: 0px;
